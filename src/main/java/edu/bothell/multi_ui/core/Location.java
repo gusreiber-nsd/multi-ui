@@ -2,7 +2,6 @@ package edu.bothell.multi_ui.core;
 
 import java.util.ArrayList;
 import java.util.List;
-import edu.bothell.multi_ui.ui.swing.Locatable;
 
 public class Location {
     // PROPERTIES ----------------------------------------------------------------
