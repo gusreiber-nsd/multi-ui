@@ -1,4 +1,4 @@
-package edu.bothell.multi_ui.ui.swing;
+package edu.bothell.multi_ui.core;
 
 public interface Locatable {
     public int[]   getPos();

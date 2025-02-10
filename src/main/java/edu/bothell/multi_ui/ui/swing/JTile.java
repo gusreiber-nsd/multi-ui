@@ -7,6 +7,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 import edu.bothell.multi_ui.core.Control;
+import edu.bothell.multi_ui.ui.Locatable;
 
 public class JTile extends JButton implements ActionListener, Locatable {
     

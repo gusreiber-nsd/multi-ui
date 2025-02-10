@@ -1,5 +1,7 @@
 package edu.bothell.multi_ui.core;
 
+import java.util.Random;
+
 public enum Terrain {
     PLAIN   (0,2,3,130, '='),
     DESERT  (0,3,3,40, '_'),

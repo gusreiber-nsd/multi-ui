@@ -13,6 +13,7 @@ public class Location {
     private boolean isWalled = false;
     private Terrain t;
     private Locatable uiElem; // Link to GUI element (e.g., Swing or Web)
+    private boolean[] isEdges; // Edges follow walls: {NE, E, SE, SW, W, NW}
 
     private final int x, y; // Hex grid coordinates
    // private Game game; // Reference to the parent game
